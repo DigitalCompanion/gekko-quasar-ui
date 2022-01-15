@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "@quasar/app": "^1.0.6",
-    "marked": "^0.7.0",
+    "marked": "^4.0.10",
     "strip-ansi": "^5.2.0",
     "superagent": "^5.1.0",
     "superagent-no-cache": "^0.1.1"
